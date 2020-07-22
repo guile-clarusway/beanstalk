@@ -5,5 +5,8 @@ Simple Python and Flask sample application from [AWS Elastic Beanstalk Developer
 Note: this application asks you to authenticate. For testing, the logins and
 passwords are hard-coded.  They are:
 
- - User 1: login: joe; Password: secret123
- - User 2: login: anne Password: secret123
+ - User 1: login: joe
+   Password: secret123
+   
+ - User 2: login: anne
+   Password: secret123
